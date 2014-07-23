@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://ZNCatlaw.github.io/sitemap.xml 
