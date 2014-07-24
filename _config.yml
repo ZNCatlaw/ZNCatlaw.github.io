@@ -1,0 +1,15 @@
+# Site settings
+title: Zigs, Nomoon, & Clang at Law
+email:
+description: "We make games. It's the law."
+baseurl: ""
+url: "http://ZNCatlaw.github.io"
+twitter_username: ZNCatlaw
+github_username:  ZNCatlaw
+
+# Build settings
+lsi: false
+safe: true
+highligher: pygments
+markdown: kramdown
+permalink: pretty
